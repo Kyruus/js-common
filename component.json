@@ -1,0 +1,22 @@
+{
+  "name": "js-common",
+  "version": "0.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "thorax": "~2.0.0b5",
+    "backbone": "0.9.10",
+    "underscore": "1.4.4",
+    "better-collapse": "~2.0.2",
+    "jquery-placeholder": "~2.0.7",
+    "select2": "~3.3.2",
+    "moment": "~2.0.0",
+    "spin.js": "~1.3.0",
+    "uri.js": "~1.10.2",
+    "jquery": "1.9.1",
+    "handlebars": "~1.0.0-rc.3"
+  }
+}

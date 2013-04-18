@@ -1,0 +1,12 @@
+{
+  "author": "George Erickson",
+  "name": "js-common",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "bower": "~0.8.6",
+    "grunt": "~0.4.1",
+    "grunt-bower-concat": "~0.1.0",
+    "grunt-contrib-uglify": "~0.2.0"
+  }
+}
