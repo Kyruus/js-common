@@ -7,7 +7,6 @@
     "components"
   ],
   "dependencies": {
-    "thorax": "~2.0.0b5",
     "backbone": "0.9.10",
     "underscore": "1.4.4",
     "better-collapse": "~2.0.2",
